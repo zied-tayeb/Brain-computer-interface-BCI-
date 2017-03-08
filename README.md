@@ -1,2 +1,2 @@
 # Brain-computer-interface-
-This is a Matlab code is for Motor imagery movement (MI) decoding from EEG brain signals. 
+This is a Matlab code about decoding of motor imagery movements from EEG brain signals
